@@ -1,17 +1,6 @@
-<!--
-**Dani3lValentim/Dani3lValentim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 ## Olá, Me chamo Daniel Valentim
-### Seja Bem vindo(a) ao meu perfil GitHub! 👋
+### Seja Bem vindo ao meu perfil GitHub! 👋
 
 <p>Por aqui você acompanha meus projetos, minha evolução e aprendizado na área de desenvolvimento web!</p>
 
@@ -25,6 +14,7 @@ Here are some ideas to get you started:
 ### Pretendo Aprender
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40px" height="40px" />
 -->
+
 ## Contato
 <div>
 <!--<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
