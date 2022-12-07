@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/GIT?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 -->
 <div>
+<!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" height="40px" />-->
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
     <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/>
 </div>
