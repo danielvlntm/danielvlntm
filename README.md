@@ -15,8 +15,6 @@
 <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" height="40px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height="40px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="40px" height="40px" />
- 
-### Pretendo Aprender
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40px" height="40px" />
 -->
 
@@ -33,8 +31,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>   
 </div>
-
-## Status
+<br>
 <!--[![card](https://github-readme-stats.vercel.app/api?username=Dani3lValentim&theme=dracula&show_icons=true)](https://github.com/anuraghazara/github-read-stats)-->
 
 [![dani3lvalentim](https://github-readme-stats.vercel.app/api/top-langs/?username=Dani3lValentim&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
