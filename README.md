@@ -61,6 +61,6 @@
 
 <!--[![card](https://github-readme-stats.vercel.app/api?username=Dani3lValentim&theme=dark&show_icons=true)](https://github.com/anuraghazara/github-read-stats)-->
 
-[![danielvlntm](https://github-readme-stats.vercel.app/api/top-langs/?username=danielvalntm&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![danielvlntm](https://github-readme-stats.vercel.app/api/top-langs/?username=danielvlntm&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
