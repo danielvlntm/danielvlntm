@@ -1,28 +1,33 @@
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Daniel Valentim</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dani3lValentim&color=yellow" alt="Profile views" /> </p>
 
-## Olá, Me chamo Daniel Valentim
+<!--
 ### Seja Bem vindo ao meu perfil GitHub! 👋
-
+-->
+### Welcome to my GitHub profile!
+<!--
 <p>Por aqui você acompanha meus projetos, minha evolução e aprendizado na área de desenvolvimento web!</p>
+-->
+<p>Here you can follow my projects, my evolution and learning in the area of ​​web development!</p>
 
-
-### Linguagens
+### Programming languages
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
-
-### Ferramentas
 <!--
 <img src="https://img.shields.io/badge/GIT?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 -->
+
+### Tools
 <div>
 <!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" height="40px" />-->
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
     <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/>
 </div>
 
-### Aprendendo
+### Learning
 <div>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-native"/>
@@ -39,7 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40px" height="40px" />
 -->
 
-### Contato
+### Contact
 <div>
 <!--<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
