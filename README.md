@@ -25,7 +25,7 @@
 <!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" height="40px" />-->
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
     <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim" />
-<!--    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="gnu bash" />-->
+    <img src="https://img.shields.io/badge/Zsh-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Zsh" />
 </div>
 
 ### Learning
