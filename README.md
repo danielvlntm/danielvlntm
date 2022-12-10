@@ -3,7 +3,7 @@
 
 
 ### Welcome to my GitHub profile!
-
+<p>I'm a Brazilian web developer, focused on daily learning about different technologies used in web development, both front-end and back-end, because my long term goal is to become a fullstack developer.
 <p>Here you can follow my projects, my evolution and learning in the area of ​​web development!</p>
 
 ### Programming languages
